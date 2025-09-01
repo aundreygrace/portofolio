@@ -149,6 +149,7 @@ const ChartTooltipContent = React.forwardRef<
       if (labelFormatter) {
         return (
           <div className={cn("font-medium", labelClassName)}>
+            {/* @ts-expect-ignore - Fix label type issue */}
             {labelFormatter(value, payload)}
           </div>
         )

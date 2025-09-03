@@ -5,7 +5,7 @@ const Certificates = () => {
         issuer: 'Dicoding',
         date: '2024',
         description: 'Dasar HTML dan CSS sebagai tiga fondasi pembuatan website. ',
-        image: '/src/assets/belajar-dasar-pemrograman-web.jpeg',
+        image: '/belajar-dasar-pemrograman-web.jpeg',
         source: 'https://www.dicoding.com/certificates/2VX344Y3NZYQ',
       },
       {
@@ -13,7 +13,7 @@ const Certificates = () => {
         issuer: 'Dicoding',
         date: '2024',
         description: 'Dasar JavaScript untuk pengembangan aplikasi web menggunakan Node.js.',
-        image: '/src/assets/belajar-dasar-pemrograman-javascript.jpeg',
+        image: '/belajar-dasar-pemrograman-javascript.jpeg',
         source: 'https://www.dicoding.com/certificates/4EXGVEOYDXRL',
       },
       {
@@ -21,7 +21,7 @@ const Certificates = () => {
         issuer: 'Dicoding',
         date: '2024',
         description: 'Mengidentifikasi konsep penting dalam Deep Learning beserta mengimplementasikan contoh penerapannya.',
-        image: '/src/assets/belajar-dasar-ai.png',
+        image: '/belajar-dasar-ai.png',
         source: 'https://www.dicoding.com/certificates/0LZ0RODWRP65',
       }
     ];

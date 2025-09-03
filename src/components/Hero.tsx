@@ -10,7 +10,7 @@ const Hero = () => {
         <div className="max-w-3xl mx-auto text-center relative z-10">
           <div className="mb-12">
            {/* <div className="w-24 h-24 mt-10 mx-auto mb-8 flex items-center justify-center">
-             <img className=" rounded-full" src="/src/assets/profil.jpg"/>
+             <img className=" rounded-full" src="/profil.jpg"/>
             </div>*/}
             
             <h1 className="text-4xl md:text-5xl font-light text-white mb-4 tracking-wide">

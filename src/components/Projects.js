@@ -21,7 +21,7 @@ const Projects = () => {
         {
             title: 'Digitalisasi UMKM Warung Bu Sari',
             description: 'Proyek ini merupakan hasil partisipasi saya dalam Lomba Web Programming Dies Natalis HMP-TI 2025, dengan tema "Digitalisasi UMKM Lokal". Website ini dibuat untuk membantu usaha kecil seperti Warung Bu Sari agar bisa tampil secara digital tanpa membutuhkan backend.',
-            image: '/warung-umkm.jpg',
+            image: 'dist/assets/warung-umkm.jpg',
             tech: ['JavaScript', 'CSS'],
             github: 'https://github.com/aundreygrace/-Warung-UMKM-Bu-Sari',
             demo: 'https://warung-bu-sari.vercel.app/'

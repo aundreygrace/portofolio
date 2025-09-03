@@ -2,15 +2,15 @@ const Skills = () => {
     const skills = [
       { 
         name: 'JavaScript', 
-        logo: '/javascript.svg'
+        logo: 'dist/assets/javascript.svg'
       },
       { 
         name: 'ReactJS', 
-        logo: '/react.svg'
+        logo: 'dist/assets/react.svg'
       },
       { 
         name: 'Tailwind CSS', 
-        logo: '/tailwindcss.svg'
+        logo: 'dist/assets/tailwindcss.svg'
       },
     ];
   

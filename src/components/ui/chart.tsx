@@ -1,4 +1,4 @@
-"use client"
+{/*"use client"
 
 import * as React from "react"
 import * as RechartsPrimitive from "recharts"
@@ -149,7 +149,7 @@ const ChartTooltipContent = React.forwardRef<
       if (labelFormatter) {
         return (
           <div className={cn("font-medium", labelClassName)}>
-            {/* @ts-expect-ignore - Fix label type issue */}
+            {/* @ts-expect-ignore - Fix label type issue 
             {labelFormatter(value, payload)}
           </div>
         )
@@ -363,4 +363,4 @@ export {
   ChartLegend,
   ChartLegendContent,
   ChartStyle,
-}
+*/}
